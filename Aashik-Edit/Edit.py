@@ -19,15 +19,15 @@ buttons = [
     [
         InlineKeyboardButton(
             text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽",
-            url=f"https://t.me/EditGuardian_xdBot?startgroup=true",
+            url=f"https://t.me/EditGardian_Bot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/riteshcoder"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/riteshcoder"),
+        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/VERON_SUPPORTS"),
+        InlineKeyboardButton(text="𝗖𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/Veron_bots"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/riteshcoder"),
+        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/coderdeva"),
     ],
     
 ]
