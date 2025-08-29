@@ -33,15 +33,11 @@ buttons = [
 ]
 
 IMG = [
-"https://telegra.ph/file/73c9aa7b5e1a2e053d915.jpg",
-"https://telegra.ph/file/6cf4d7a5d07cdbc5c4c4f.jpg",
-"https://telegra.ph/file/3938993e7f83b9201d961.jpg",
-"https://telegra.ph/file/867bd553810ac3a4cf09f.jpg",
-"https://telegra.ph/file/d102719ef028b224e0842.jpg",
-"https://telegra.ph/file/63dbc9108dca4a91121af.jpg",
-"https://telegra.ph/file/5225ee47a9cbb9a0e85b1.jpg",
-"https://telegra.ph/file/ee9751a286fd983f08086.jpg",
-"https://telegra.ph/file/fbfa4262e467652e75d83.jpg",
-"https://telegra.ph/file/865ce3676d535ec83dce9.jpg",
+"https://files.catbox.moe/mtslou.jpg",
+"https://files.catbox.moe/6pttqe.jpg",
+"https://files.catbox.moe/jh96sv.jpg",
+"https://files.catbox.moe/9mngo2.jpg",
+"https://files.catbox.moe/zq4a8f.jpg",
+"https://files.catbox.moe/c5n0cu.jpg",
 ]
-PM_START_IMG = "https://files.catbox.moe/ifjtm3.jpg"
+PM_START_IMG = "https://files.catbox.moe/21q178.jpg"
